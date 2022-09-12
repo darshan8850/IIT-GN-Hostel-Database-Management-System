@@ -1,6 +1,6 @@
 DATABASE DESIGNERS- IITGN_HOSTEL DATABASE:-
 ------------------------------------------
-![ER_Diagram](IITGN Hostel Management ER .jpg "ER Diagram")
+![ER_Diagram](IITGN Hostel Management ER.jpg "ER Diagram")
 
 
 G1:\
