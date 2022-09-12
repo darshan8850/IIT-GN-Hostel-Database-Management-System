@@ -1,8 +1,6 @@
 DATABASE DESIGNERS- IITGN_HOSTEL DATABASE:-
 ------------------------------------------
-
-![My_Image](IITGN Hostel Management ER Diagram.jpg)
-
+![foxdemo](https://github.com/foxdemo/foxdemo.github.io/blob/master/assets/images/avatar.png)
 
 G1:\
 Hardik Mahur(19110086)\
