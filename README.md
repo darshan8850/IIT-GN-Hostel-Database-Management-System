@@ -1,5 +1,7 @@
 DATABASE DESIGNERS- IITGN_HOSTEL DATABASE:-
 ------------------------------------------
+![Alt text](relative/path/to/IITGN Hostel Management ER .jpg?raw=true "ER Diagram")
+
 
 G1:\
 Hardik Mahur(19110086)\
